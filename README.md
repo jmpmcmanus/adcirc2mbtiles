@@ -6,6 +6,10 @@ a directory which will be added to the container, as the volume (/home/mbtiles).
 disk space to process the input files, intermediate files, and the mbtile files. After cloning this repository you  
 should follow the commands below.
 
+## Credits
+
+* gdal2mbtiles, pchynoweth, https://github.com/pchynoweth/gdal2mbtiles
+
 #### Build docker images
 
 ##### Change directory to build
